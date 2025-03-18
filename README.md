@@ -38,7 +38,7 @@ This repository has been relocated from the following account due to authenticat
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoMyBestFor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realacco&show_icons=true&theme=radical)
 
 ☎️ **Contact**
 
