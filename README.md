@@ -1,6 +1,7 @@
 ### Hi there! 👋
 For resume inquiries, please reach out to me by email.
 
+This repository has been relocated from the following account due to authentication issues. From. [DoMyBestFor](https://github.com/DoMyBestFor?tab=repositories)
 ---------------------------
 😎 **History**
 
